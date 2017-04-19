@@ -1,0 +1,11 @@
+# basic options
+title: blogtastic thoughts
+author: jwilsonsaia
+email: your-email@domain.com
+description: I have cool thoughts most of the time, but not a lot of people listen to them
+twitter_username: funky_prismatic
+github_username:  jwilsonsaia
+
+# Build settings
+markdown: kramdown
+theme: minima
