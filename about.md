@@ -10,6 +10,7 @@ Hope you love it!
 Reasons:
 - its great.
 - its a test.
+- I'm getting paid to do this, seriously
 
 ## Other thoughts
 
